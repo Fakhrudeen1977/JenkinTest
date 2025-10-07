@@ -43,7 +43,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>JenkinTest</finalName>
+	<finalName>jenkintest</finalName>
 	
 		<plugins>
 			<plugin>
