@@ -20,7 +20,7 @@ public class TestController {
 	
 	@GetMapping("/getMyName")
 	public ResponseEntity<String>  getMyName() {
-		String message="<h1>Hi Fakhrudeen Ali Ahamed</h1>";
+		String message="<h1>Hi Welcome Fakhrudeen Ali Ahamed</h1>";
 		return new ResponseEntity<String>(message,HttpStatus.OK);
 		
 	}
